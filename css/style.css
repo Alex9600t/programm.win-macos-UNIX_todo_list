@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+.todo_list_cont_style {
+    border: 3px solid rgb(214, 214, 214);
+    border-radius: 10px; 
+}
+.todo_list_conteiner_cont_0 {
+    text-decoration: none;
+}
