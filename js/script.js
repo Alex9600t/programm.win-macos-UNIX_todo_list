@@ -1,8 +1,7 @@
 
 console.log("hello");
 // document.querySelector(".todo_list_conteiner_class_cont_0").addEventListener('click', () => {
-//     document.getElementsByClassName('todo_list_conteiner_cont_0')[0].style= "text-decoration: line-through;";
-// });
+//     document.getElementsByClassName('todo_list_conteiner_cont_0')[0].style= "text-decoration: line-through; border: 3px solid rgb(80, 170, 78);";
 document.querySelector(".todo_list_conteiner_class_cont_1").addEventListener('click', () => {
     document.getElementsByClassName('todo_list_conteiner_cont_1')[0].style= "text-decoration: line-through; border: 3px solid rgb(80, 170, 78);";
 });
