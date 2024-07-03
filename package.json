@@ -1,0 +1,14 @@
+{
+  "name": "programm.win-macos-unix_todo_list",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+  "start": "electron ."
+  },
+  "author": "Bduidan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
