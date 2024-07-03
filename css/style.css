@@ -2,10 +2,8 @@ body {
     background-color: rgb(49, 49, 49);
     color: white;
 }
-.todo_list_cont_style {
+.todo_list_conteiner_cont_0, .todo_list_conteiner_cont_1, .todo_list_conteiner_cont_2, .todo_list_conteiner_cont_3, .todo_list_conteiner_cont_4, .todo_list_conteiner_cont_5 {
     border: 3px solid rgb(214, 214, 214);
     border-radius: 10px; 
-}
-.todo_list_conteiner_cont_0 {
     text-decoration: none;
 }
